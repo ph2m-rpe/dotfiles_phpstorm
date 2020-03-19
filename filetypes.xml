@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="magerun" type="PLAIN_TEXT" />
+      <mapping pattern="ngrokd" type="PLAIN_TEXT" />
+      <mapping pattern="cli/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="php-cs-fixer" type="PLAIN_TEXT" />
+      <mapping pattern="bin/magerun" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="frm" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>

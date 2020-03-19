@@ -1,0 +1,27 @@
+<templateSet group="PHP">
+  <template name="ll" value="Mage::log($var$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="lll" value="Mage::log('$var1$' =&gt; $var2$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="die" value="die($var$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="llll" value="$writer = new \Zend\Log\Writer\Stream(BP . '/var/log/test.log');&#10;$logger = new \Zend\Log\Logger();&#10;$logger-&gt;addWriter($writer);&#10;$logger-&gt;alert($var$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

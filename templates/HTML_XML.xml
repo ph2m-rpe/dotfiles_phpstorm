@@ -1,0 +1,27 @@
+<templateSet group="HTML/XML">
+  <template name="php" value="&lt;?php $var$ ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ll" value="&lt;?php Mage::log($var$); ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="lll" value="&lt;?php Mage::log('$var1$' =&gt; $var2$); ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="die" value="&lt;?php die($var$); ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
