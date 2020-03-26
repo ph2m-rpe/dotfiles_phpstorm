@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -33,6 +34,7 @@
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="IncrementWindowHeight" />
+  <action id="IntroduceParameter" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
@@ -40,6 +42,9 @@
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="PhpNewClass">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
@@ -53,6 +58,8 @@
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="SendEOF" />
+  <action id="ServiceView.GroupByServiceGroups" />
+  <action id="TodoViewGroupByShowPackages" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="XDebugger.CopyWatch" />
