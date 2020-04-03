@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Bestsellers" type="PHP" />
       <mapping pattern="magerun" type="PLAIN_TEXT" />
       <mapping pattern="ngrokd" type="PLAIN_TEXT" />
       <mapping pattern="cli/Dockerfile" type="PLAIN_TEXT" />
