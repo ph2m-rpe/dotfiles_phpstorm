@@ -5,7 +5,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="lll" value="Mage::log('$var1$' =&gt; $var2$);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lll" value="\Magento\Framework\App\ObjectManager::getInstance()-&gt;get(\Psr\Log\LoggerInterface::class)-&gt;debug('debug',['$var1$' =&gt; $var2$]);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
