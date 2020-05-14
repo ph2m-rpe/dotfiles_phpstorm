@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="devialet-v2-dev.gce.bearstech.com" id="a0225c96-4e13-4ac2-8836-122a39b7978a" port="22" nameFormat="DESCRIPTIVE" username="devialet" />
+    </configs>
+  </component>
+</application>
