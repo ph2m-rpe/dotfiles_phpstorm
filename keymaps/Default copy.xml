@@ -63,6 +63,10 @@
   <action id="Uml.ShowDiff" />
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="XDebugger.CopyWatch" />
+  <action id="ZoomCurrentWindow">
+    <keyboard-shortcut first-keystroke="add" />
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="openAssertEqualsDiff" />
   <action id="osmedile.intellij.stringmanip.PopupChoiceAction">
     <keyboard-shortcut first-keystroke="shift alt m" />
