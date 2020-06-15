@@ -7,6 +7,7 @@
       <mapping pattern="cli/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="php-cs-fixer" type="PLAIN_TEXT" />
       <mapping pattern="bin/magerun" type="PLAIN_TEXT" />
+      <mapping pattern="Ph2m/default/" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="frm" type="PLAIN_TEXT" />
