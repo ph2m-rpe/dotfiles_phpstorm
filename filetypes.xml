@@ -6,6 +6,7 @@
       <mapping pattern="magerun" type="PLAIN_TEXT" />
       <mapping pattern="php-cs-fixer" type="PLAIN_TEXT" />
       <mapping pattern="cli/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="SetSpeakersData" type="PLAIN_TEXT" />
       <mapping pattern="bin/magerun" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="Ph2m/default/" type="PLAIN_TEXT" />
